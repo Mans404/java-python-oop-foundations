@@ -1,6 +1,6 @@
 # Library Management System (Java OOP)
 
-## 📌 Overview
+## Overview
 This is a simple console-based Library Management System built using Java.
 
 The project demonstrates core Object-Oriented Programming (OOP) concepts such as:
@@ -12,9 +12,9 @@ The project demonstrates core Object-Oriented Programming (OOP) concepts such as
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
-All classes are inside the package:
+All classes are inside the package
 
 ### 1️⃣ Book
 Represents a book in the system.
